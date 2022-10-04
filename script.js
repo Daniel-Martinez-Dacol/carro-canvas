@@ -1,4 +1,3 @@
-// Classes
 class Retangulo {
 
   constructor(eixoX, eixoY, largura, altura, cor) {
